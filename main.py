@@ -42,4 +42,4 @@ To check
 git branch
 
 To switch to other branch
-Git branch <new branch name>
+Git checkout <new branch name>
