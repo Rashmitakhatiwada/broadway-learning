@@ -1,4 +1,4 @@
-"""
+
 for i in range(10) : #it ranges from 0 to 9
     print(i)
 
@@ -68,5 +68,5 @@ counter=0
 while counter<5:
     counter+=1
     print(counter)
-"""
+
 
