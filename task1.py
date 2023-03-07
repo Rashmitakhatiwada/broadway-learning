@@ -16,7 +16,7 @@ print(int(d))
 
 vowel = "a,e,i,o,u"
 list = input("enter a letter")
-if list in vowel:
+if list.lower() in vowel:
     print("it is a vowel")
 else :
     print("it is not a vowel")
